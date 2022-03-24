@@ -8,7 +8,7 @@
 * **Discord:** saachko
 
 ## About me
-I work as a Transport and Logistics Manager in Minsk, Belarus. My occupation is full of various tasks, extraordinary situations and communication with lots of people. It's rather interesting, but I'm always looking for something new to challenge and develope myself. This is the reason I've got to **RS School**.
+I work as a Transport and Logistics Manager in Minsk, Belarus. My occupation is full of various tasks, extraordinary situations and communication with lots of people. It's rather interesting, but I'm always looking for something new to challenge and develop myself. This is the reason I've got to **RS School**.
 
 ## Skills
 * HTML
