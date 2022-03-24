@@ -2,7 +2,7 @@
 
 ## Contacts
 * **Location:** Minsk, Belarus
-* **Phone:** [+375 (29) 804-33-01](tel:+375298043301)
+* **Phone:** +375 (29) 804-33-01
 * **E-mail:** [naztya12323@gmail.com](mailto:naztya12323@gmail.com)
 * **Telegram:** [saachko](https://t.me/saachko)
 * **Discord:** saachko
